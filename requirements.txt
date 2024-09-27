@@ -1,0 +1,4 @@
+simplematrixbotlib==2.12.0
+pydub==0.25.1
+speechrecognition==3.10.4
+python-dotenv==1.0.1
